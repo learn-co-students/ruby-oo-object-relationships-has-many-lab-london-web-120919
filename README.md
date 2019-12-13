@@ -7,7 +7,7 @@
 - Use a class variable to track data about a class.
 - Build a class method to expose data stored in a class variable.
 
-## Instructions
+## Instructions 
 
 In this lab, we'll be dealing with two sets of classes. The `Artist` and `Song`
 class and the `Author` and `Post` class. An artist should have many songs and a
